@@ -9,7 +9,7 @@ import cors from 'cors'
 import swaggerUi from 'swagger-ui-express'
 import swaggerSpec from './swagger.js'
 
-
+//config
 config();
 connectDB();
 
